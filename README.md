@@ -1,6 +1,6 @@
 # Web Application Penetration Testing 
 
-This repository showcases two practical web application penetration testing projects conducted as part of my cybersecurity learning and hands-on practice.
+This repository showcases  practical web application penetration testing projects conducted as part of my cybersecurity learning and hands-on practice.
 
 ## 🔹 Projects Included
 
